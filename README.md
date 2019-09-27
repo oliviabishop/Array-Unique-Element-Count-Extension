@@ -58,4 +58,4 @@ A detailed explanation of how the array unique element count extension using a t
         
         
  #### To view the code in its entirety click here
- 
+ https://github.com/oliviabishop/Array-Unique-Element-Count-Extension/wiki/Array-Unique-Element-Count-Project
