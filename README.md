@@ -4,4 +4,4 @@ A detailed explanation of how the array unique element count extension works
 ## Step 1 - Creating the extension
 ```swift
  extension Array where Element: Comparable {
-}```
+}
